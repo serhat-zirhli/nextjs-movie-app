@@ -1,4 +1,4 @@
-Launch : https://nextjs-movie-app-serhat-zirhli.vercel.app
+Launch : https://nextjs-netfilms-app.netlify.app
 
 ## Getting Started
 
